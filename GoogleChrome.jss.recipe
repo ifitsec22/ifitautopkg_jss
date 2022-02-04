@@ -17,7 +17,7 @@
     <string>0.2.0</string>
     <key>ParentRecipe</key>
     <object>com.github.autopkg.pkg.googlechrome</object>
-    <key>Process</key>
+   
     <array>
         <dict>
             <key>Arguments</key>
